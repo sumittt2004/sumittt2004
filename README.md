@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Sumit Mishra!
+🎓 3rd Year Student | Aspiring Data Scientist
+📊 Passionate about Data Science, Machine Learning, and AI
+💡 Exploring the power of data-driven solutions
 
-<!--
-**sumittt2004/sumittt2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔥 About Me
+Currently learning Python, Machine Learning, and Deep Learning
+Interested in data visualization, predictive modeling, and AI applications
+Love working on real-world data science projects
+🚀 Skills
+Programming: Python, SQL
+Libraries & Tools: Pandas, NumPy, Scikit-Learn, TensorFlow
+Data Visualization: Matplotlib, Seaborn
+Machine Learning: Supervised & Unsupervised Learning
+📌 Connect with Me
+📧 Email: [Your Email]
+💼 LinkedIn: [Your LinkedIn Profile]
+📂 Portfolio: [Your Portfolio (if any)]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's collaborate and build something amazing! 🚀
